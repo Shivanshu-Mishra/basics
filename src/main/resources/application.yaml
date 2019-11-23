@@ -1,0 +1,9 @@
+#spring.main.lazy-initialization=true
+#spring.main.banner-mode=log
+my:
+  servers:
+    - dev.example.com
+    - another.example.com
+logging:
+  level:
+    root: info
